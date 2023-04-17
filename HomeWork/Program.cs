@@ -20,7 +20,8 @@ else
 
 // Task 2.Напишите программу, которая принимает на вход три числа 
 // и выдаёт максимальное из этих чисел.
-/*
+ 
+ /*
 Console.WriteLine("Inpud a first number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Inpud a second number: ");

@@ -1,28 +1,28 @@
 ﻿
-void ShowArrey(int[] array)
-{
-  for (int i = 0; i < array.Length; i++)
-    Console.Write(array[i] + " ");
-  Console.WriteLine();
-}
+// void ShowArrey(int[] array)
+// {
+//   for (int i = 0; i < array.Length; i++)
+//     Console.Write(array[i] + " ");
+//   Console.WriteLine();
+// }
 
-int[] CreateRandomArray(int size, int minValue, int maxValue)
-{
-  int[] array = new int[size];
+// int[] CreateRandomArray(int size, int minValue, int maxValue)
+// {
+//   int[] array = new int[size];
 
-  for (int i = 0; i < size; i++)
-    array[i] = new Random().Next(minValue, maxValue + 1);
+//   for (int i = 0; i < size; i++)
+//     array[i] = new Random().Next(minValue, maxValue + 1);
 
-  return array;
-}
+//   return array;
+// }
 
-int GetSumOfNegatives(int[] array)
-{
-  int sum = 0;
-  for (int i = 0; i < array.Length; i++)
-    if (array[i] < 0) sum += array[i]; // sum = sum+arrey[i];
-  return sum;
-}
+// int GetSumOfNegatives(int[] array)
+// {
+//   int sum = 0;
+//   for (int i = 0; i < array.Length; i++)
+//     if (array[i] < 0) sum += array[i]; // sum = sum+arrey[i];
+//   return sum;
+// }
 
 // Console.Write("Inpud a quantity of elements: ");
 // int size = Convert.ToInt32(Console.ReadLine());
@@ -89,7 +89,7 @@ Console.Write($"Sum of negative elements is " + GetSumOfNegatives(myArrey));
 */
 
 //3
-
+/*
 int GetQtyElements(int[] array, int minValue, int maxValue)
 {
   int count = 0;
@@ -113,7 +113,7 @@ int numB = Convert.ToInt32(Console.ReadLine());
 int[] myArray = CreateRandomArray(size, min, max);
 ShowArrey(myArray);
 Console.WriteLine("Quntity of elements: "+ GetQtyElements(myArray, numA, numB));
-
+*/
 
 //4
 /*

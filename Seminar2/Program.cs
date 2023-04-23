@@ -27,7 +27,8 @@ int MaxNumber(int num)
   int dozents = num / 10;
   if (units > dozents)
   return units;
-  else return dozents;
+  else 
+  return dozents;
 }
 
 int random = new Random().Next(10,100);

@@ -20,7 +20,8 @@ else
 
 // Task 2.Напишите программу, которая принимает на вход три числа 
 // и выдаёт максимальное из этих чисел.
-/*
+ 
+ /*
 Console.WriteLine("Inpud a first number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Inpud a second number: ");
@@ -54,7 +55,7 @@ else
 // Task 4.Напишите программу, которая на вход принимает число (N), 
 // а на выходе показывает все чётные числа от 1 до N.
 
-
+/*
 Console.WriteLine("Enter a number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
@@ -65,3 +66,4 @@ while(current<=num)
   Console.WriteLine(current+" ");
   current++;
 }
+*/

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Виктория\\.nuget\\packages\\": {}
+    "C:\\Users\\79153\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Виктория\\Desktop\\С#Lection\\HomeWork\\HomeWork.csproj",
+      "projectUniqueName": "C:\\Users\\79153\\Desktop\\С#Project\\HomeWork\\HomeWork.csproj",
       "projectName": "HomeWork",
-      "projectPath": "C:\\Users\\Виктория\\Desktop\\С#Lection\\HomeWork\\HomeWork.csproj",
-      "packagesPath": "C:\\Users\\Виктория\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Виктория\\Desktop\\С#Lection\\HomeWork\\obj\\",
+      "projectPath": "C:\\Users\\79153\\Desktop\\С#Project\\HomeWork\\HomeWork.csproj",
+      "packagesPath": "C:\\Users\\79153\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\79153\\Desktop\\С#Project\\HomeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Виктория\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\79153\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

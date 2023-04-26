@@ -81,6 +81,7 @@ Console.WriteLine($"Cумма элементов, стоящих на нечёт
 // Task 3.Задайте массив вещественных чисел. 
 // Найдите разницу между максимальным и минимальным элементов массива.
 
+/*
 void ShouArray(double[] array)
 {
   Console.Write("[");
@@ -120,3 +121,4 @@ double size = Convert.ToDouble(Console.ReadLine());
 double[] myArray = RandomArray(size);
 ShouArray(myArray);
 Console.WriteLine($"Cумма элементов, стоящих на нечётных позициях -> " + raznica(myArray));
+*/

@@ -71,11 +71,11 @@ if(ValidateLines(lineData1,lineData2))
 }
 
 
-int Prompt(string message)
+double Prompt(string message)
 {
   Console.Write(message);
-  string readInput = System.Console.ReadLine();
-  int result = int.Parse(readInput);
+  string value = System.Console.ReadLine();
+  double result = Convert.ToDouble(value);
   return result;
 }
 

@@ -93,9 +93,9 @@ void ShouArray(double[] array)
 
 double[] RandomArray(double size)
 {
-  int[] array = new int[size];
+  int[] array = new int[];
   for (int i = 0; i < size; i++)
-    array[i] = new Random().NextDouble(size);
+    array[i] = new Random().NextDouble();
   return array;
 } 
   

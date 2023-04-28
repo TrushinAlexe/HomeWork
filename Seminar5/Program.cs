@@ -1,4 +1,4 @@
-﻿//Seminar 5
+﻿﻿//Seminar 5
 
 // void ShowArrey(int[] array)
 // {
